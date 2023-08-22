@@ -1,0 +1,11 @@
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\TicTacToeGame\obj\Debug\TicTacToeGame.Form1.resources
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\ahmed\Desktop\Software Examples\C# Projeleri\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
