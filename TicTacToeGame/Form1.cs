@@ -141,7 +141,7 @@ namespace TicTacToeGame
 
                 UpdateUIElement(randomTextBox);
 
-            }
+              }
 
 
             void UpdateUIElement(int index)
